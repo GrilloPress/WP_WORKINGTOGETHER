@@ -178,7 +178,7 @@ $btn-link-disabled-color:        $gray-light;
 //##
 
 //** `<input>` background color
-$input-bg:                       transparent;
+$input-bg:                       #fff;
 //** `<input disabled>` background color
 $input-bg-disabled:              transparent;
 
@@ -199,7 +199,7 @@ $input-border-radius-small:      $border-radius-small;
 $input-border-focus:             #66afe9;
 
 //** Placeholder text color
-$input-color-placeholder:        $gray-light;
+$input-color-placeholder:        $gray;
 
 //** Default `.form-control` height
 $input-height-base:              ($line-height-computed + ($padding-base-vertical * 2) + 2);

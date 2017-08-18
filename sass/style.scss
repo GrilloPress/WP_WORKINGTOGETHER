@@ -1,0 +1,33 @@
+/*!
+Theme Name: WORKINGTOGETHER
+Theme URI: https://github.com/GrilloPress/WP_WORKINGTOGETHER
+Description: 2017 Theme for Working Together Vanguard
+Version: 0.1
+Template: WP_NHS
+Author: Andrew Duckworth
+Author URI: https://github.com/GrilloPress
+*/
+@import "bootstrap-compass";
+// general elements
+@import "variables";
+@import "bootstrap";
+@import "globals";
+@import "buttons";
+@import "typography";
+// page elements
+@import "wp_pages";
+@import "navbar";
+@import "footer";
+@import "images";
+@import "sidebar";
+@import "search";
+@import "jetpack";
+@import "wp_taxonomies";
+@import "wp_front_page";
+@import "wp_custom_parts";
+@import "sections";
+@import "blocks";
+@import "feeds";
+@import "slider";
+// Cookie EU Law
+@import "cookie";
